@@ -1,6 +1,6 @@
 cask "clipnote" do
-  version "2.0.0"
-  sha256 "04b31a61c3d6279e706826de9e9fea59c7b76fa5cafc55ce8554469fcd355293"
+  version "2.0.1"
+  sha256 "20768c0818a321306c3ed9794e5f83b6e739fe4ff439f518b58637d6a34ebfd1"
 
   url "https://github.com/hanhang-han/clipnote-release/releases/download/v#{version}/灵剪.dmg"
   name "ClipNote"
