@@ -6,7 +6,7 @@ cask "clipnote" do
   name "ClipNote"
   name "灵剪"
   desc "macOS 灵动岛剪贴板管理工具"
-  homepage "https://funbox.chat"
+  homepage "https://cliperx.com"
 
   depends_on macos: ">= :sonoma"
 
