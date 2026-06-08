@@ -1,7 +1,7 @@
 {
   "tool_name": "Bash",
-  "tool_input_preview": "{\"command\":\"grep -r \\\"ZAPIREQUESTMODEL\\\\|APIRequestModel\\\\|ZMAIL\\\\|ZAUTHTOKEN\\\" --include=\\\"*.swift\\\" ClipNote/ 2>/dev/null\",\"description\":\"Search for APIRequestModel in codebase\"}",
-  "error": "Exit code 2",
-  "timestamp": "2026-06-08T08:24:23.542Z",
+  "tool_input_preview": "{\"command\":\"gh release view v3.0.8 --json assets --jq '.assets[].name' 2>&1\",\"description\":\"Check actual asset names in release\"}",
+  "error": "Exit code 1\nrelease not found",
+  "timestamp": "2026-06-08T14:20:53.012Z",
   "retry_count": 1
 }
