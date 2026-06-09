@@ -1,7 +1,7 @@
 {
-  "tool_name": "Bash",
-  "tool_input_preview": "{\"command\":\"git add ClipNote/App/AppDelegate.swift ClipNote/Views/UpgradeView.swift ClipNote/SupportingFiles/Info.plist ClipNote.xcodeproj/project.pbxproj && git commit -m \\\"$(cat <<'EOF'\\nrelease: v3...",
-  "error": "Exit code 128\nfatal: pathspec 'ClipNote/App/AppDelegate.swift' did not match any files",
-  "timestamp": "2026-06-08T14:54:31.519Z",
+  "tool_name": "Read",
+  "tool_input_preview": "{\"file_path\":\"/Users/hanhang/Desktop/work/home/developer/clipnote/clipnote-api/src/index.ts\"}",
+  "error": "File content (34407 tokens) exceeds maximum allowed tokens (25000). Use offset and limit parameters to read specific portions of the file, or search for specific content instead of reading the whole file.",
+  "timestamp": "2026-06-08T15:46:28.065Z",
   "retry_count": 1
 }
