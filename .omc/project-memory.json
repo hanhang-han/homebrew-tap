@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "lastScanned": 1780932857644,
+  "lastScanned": 1781145529740,
   "projectRoot": "/private/tmp/homebrew-tap",
   "techStack": {
     "languages": [],
@@ -36,7 +36,7 @@
       "path": "Casks",
       "purpose": null,
       "fileCount": 1,
-      "lastAccessed": 1780932857622,
+      "lastAccessed": 1781145529728,
       "keyFiles": [
         "clipnote.rb"
       ]

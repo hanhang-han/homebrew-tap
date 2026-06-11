@@ -17,10 +17,73 @@
       "status": "completed",
       "completed_at": "2026-06-07T09:09:06.429Z",
       "duration_ms": 78495
+    },
+    {
+      "agent_id": "ad94d89b8b72e1064",
+      "agent_type": "Explore",
+      "started_at": "2026-06-11T02:48:38.800Z",
+      "parent_mode": "none",
+      "status": "completed",
+      "completed_at": "2026-06-11T02:51:01.071Z",
+      "duration_ms": 142271
+    },
+    {
+      "agent_id": "a58c5e690d4b12318",
+      "agent_type": "Explore",
+      "started_at": "2026-06-11T02:58:06.566Z",
+      "parent_mode": "none",
+      "status": "completed",
+      "completed_at": "2026-06-11T02:59:58.686Z",
+      "duration_ms": 112120
+    },
+    {
+      "agent_id": "ab839fe7f5c94e478",
+      "agent_type": "Explore",
+      "started_at": "2026-06-11T02:58:06.627Z",
+      "parent_mode": "none",
+      "status": "completed",
+      "completed_at": "2026-06-11T03:09:44.120Z",
+      "duration_ms": 697493
+    },
+    {
+      "agent_id": "aaa2344a72f3ae224",
+      "agent_type": "Explore",
+      "started_at": "2026-06-11T03:15:21.900Z",
+      "parent_mode": "none",
+      "status": "completed",
+      "completed_at": "2026-06-11T03:15:47.441Z",
+      "duration_ms": 25541
+    },
+    {
+      "agent_id": "ac48c8e4317e88803",
+      "agent_type": "general-purpose",
+      "started_at": "2026-06-11T06:26:51.302Z",
+      "parent_mode": "none",
+      "status": "completed",
+      "completed_at": "2026-06-11T06:34:58.834Z",
+      "duration_ms": 487532
+    },
+    {
+      "agent_id": "a50005a51489e9402",
+      "agent_type": "Explore",
+      "started_at": "2026-06-11T06:42:49.607Z",
+      "parent_mode": "none",
+      "status": "completed",
+      "completed_at": "2026-06-11T06:45:57.026Z",
+      "duration_ms": 187419
+    },
+    {
+      "agent_id": "a0c46b87bf8b6bbb0",
+      "agent_type": "Explore",
+      "started_at": "2026-06-11T06:46:16.870Z",
+      "parent_mode": "none",
+      "status": "completed",
+      "completed_at": "2026-06-11T06:48:43.364Z",
+      "duration_ms": 146494
     }
   ],
-  "total_spawned": 2,
-  "total_completed": 2,
+  "total_spawned": 8,
+  "total_completed": 9,
   "total_failed": 0,
-  "last_updated": "2026-06-09T02:39:12.782Z"
+  "last_updated": "2026-06-11T07:22:27.857Z"
 }

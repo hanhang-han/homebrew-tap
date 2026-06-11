@@ -1,7 +1,7 @@
 {
-  "tool_name": "Bash",
-  "tool_input_preview": "{\"command\":\"git add ClipNote.xcodeproj/project.pbxproj && git commit -m \\\"$(cat <<'EOF'\\nbuild: Universal binary support (arm64 + x86_64)\\n\\nCo-Authored-By: Claude Opus 4.7 <noreply@anthropic.com>\\nEO...",
-  "error": "Exit code 128\nfatal: pathspec 'ClipNote.xcodeproj/project.pbxproj' did not match any files",
-  "timestamp": "2026-06-09T06:30:36.097Z",
+  "tool_name": "Read",
+  "tool_input_preview": "{\"file_path\":\"/Users/hanhang/Desktop/work/home/developer/clipnote/clipnote-api/src/index.ts\"}",
+  "error": "File content (49070 tokens) exceeds maximum allowed tokens (25000). Use offset and limit parameters to read specific portions of the file, or search for specific content instead of reading the whole file.",
+  "timestamp": "2026-06-11T06:29:27.697Z",
   "retry_count": 1
 }
