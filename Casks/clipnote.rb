@@ -1,8 +1,8 @@
 cask "clipnote" do
-  version "3.4.0"
-  sha256 "ef5e4ea6eac9b57b76b87f64f554d61b0f74547d1d6ae0e2d52f6c09d2adb889"
+  version "3.5.1"
+  sha256 "c873f8141d659ad4962d472a84e96c0183922b01241e390ab94e02d7e197cb2b"
 
-  url "https://github.com/hanhang-han/clipnote/releases/download/v#{version}/%E7%81%B5%E5%89%AA.dmg"
+  url "https://github.com/hanhang-han/clipnote/releases/download/v#{version}/default.dmg"
   name "ClipNote"
   name "灵剪"
   desc "macOS 灵动岛剪贴板管理工具"
