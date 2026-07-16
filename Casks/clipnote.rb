@@ -1,7 +1,6 @@
 cask "clipnote" do
-  version "4.0.6"
-  sha256 "RUBYEOF
-echo "$DMG_SHA256" >> /tmp/homebrew-tap/Casks/clipnote.rb && cat >> /tmp/homebrew-tap/Casks/clipnote.rb << "RUBYEOF"
+  version "4.0.7"
+  sha256 "555496a1629fbb99178035417bd6b47e23cab56d45647b76239fede4b43037b1"
   url "https://update.cliperx.com/CliperX-#{version}.dmg"
   name "ClipNote"
   name "灵剪"
