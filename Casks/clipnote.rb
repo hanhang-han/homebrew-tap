@@ -1,6 +1,6 @@
 cask "clipnote" do
-  version "4.0.10"
-  sha256 "ceaf34c69d99d5aaa51f917e963ed580011346f8edb033c8b5d7433a807f5120"
+  version "4.0.11"
+  sha256 "677dddbd47e34e4404aa0827dc74e006629157d17999fa0825af25d2ddb41698"
   url "https://update.cliperx.com/CliperX-#{version}.dmg"
   name "ClipNote"
   name "灵剪"
