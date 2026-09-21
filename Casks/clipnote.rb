@@ -1,7 +1,7 @@
 cask "clipnote" do
-  version "4.0.14"
-  sha256 "f13547560a84c22ff450302944b6765a72dbc9c0b2516f68965231c20e243658"
-  url "https://update.cliperx.com/CliperX-#{version}.dmg"
+  version "4.0.15"
+  sha256 "b60eedfb77ad66bfc40bc59480ff4666f615c329d008545d90e6129d82eb3387"
+  url "https://update.cliperx.com/CliperX-4.0.15.dmg"
   name "ClipNote"
   name "灵剪"
   desc "macOS 灵动岛剪贴板管理工具"
